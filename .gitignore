@@ -9,7 +9,6 @@ __pycache__/
 # pycharm
 .idea/
 .ipynb_checkpoints/
-experiment.py
 
 
 # Distribution / packaging
