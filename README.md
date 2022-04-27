@@ -42,5 +42,7 @@ PyTorch包括torch.nn、torch.optim等子模块。
  
  reference：
  
- [https://pytorch.org/resources/](https://pytorch.org/resources/)  -> [https://pytorch.org/tutorials/](https://pytorch.org/tutorials/)
+ [https://pytorch.org/resources/](https://pytorch.org/resources/)  -> [https://pytorch.org/tutorials/](https://pytorch.org/tutorials/)  
+ [《动手学深度学习》(PyTorch 版)](https://tangshusen.me/Dive-into-DL-PyTorch/)  
+ [《动手学深度学习》](https://zh.d2l.ai/index.html)
 
